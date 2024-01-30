@@ -10,3 +10,7 @@ body {
 p {
   color: blue;
 }
+
+header {
+  background-color: aquamarine;
+}
